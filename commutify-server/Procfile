@@ -1,0 +1,1 @@
+web: gunicorn commutify.wsgi --log-file -
